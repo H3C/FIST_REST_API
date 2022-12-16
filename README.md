@@ -6,8 +6,8 @@ Please refer to the example file in the docs document for the specific implement
 
 # Requirements
 *	Intellij IDE or others
-  *JAVA **1.8**
-  *Maven **3.2.5**
+*	JAVA **1.8**
+*	Maven **3.2.5**
 
 # API Example
 The sample can be used as a request to create a session after FIST encrypts the password. 
